@@ -62,7 +62,7 @@ multimodal-rag/
 ## 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Supr-giff/multiModal-RAG.git
 cd multimodal-rag
 ```
 
