@@ -22,9 +22,13 @@ The pipeline can:
 multimodal-rag/
 │
 ├── data/
-│   └── attention-is-all-you-need.pdf
+│   ├── attention-is-all-you-need.pdf
+│   └── (other PDFs)
 │
 ├── db/
+│   └── chroma_db/
+│
+├── dbv2/
 │   └── chroma_db/
 │
 ├── json-files/
@@ -34,9 +38,9 @@ multimodal-rag/
 ├── notebooks/
 │   └── multimodal_rag.ipynb
 │
-├── requirements.txt
 ├── README.md
-└── .env
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
