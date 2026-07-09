@@ -1,0 +1,18 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-chroma
+
+chromadb
+
+unstructured[all-docs]
+unstructured-inference
+
+python-dotenv
+
+python-magic-bin; platform_system == "Windows"
+
+pillow
+
+pypdf
